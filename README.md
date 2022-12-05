@@ -1,6 +1,6 @@
 # Calculator
 
-An QT C++ implementation of Calculator.
+Qt C++ implementation of Calculator.
 
 
 ## Requirements
